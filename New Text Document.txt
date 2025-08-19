@@ -1,0 +1,14 @@
+ami Spring Boot ke backend hishebe use kore amar Angular project e Attendance nie kaj koreche,
+ekhon ami chai eki vabe Spring Boot ke backend hishebe use kore
+amar Flutter project e Angular project er moto kore Attendance nie kaj korte.
+
+proyojonio sokol file tomake die dilam jate tumi amar Flutter project e
+amar Angular project er moto kore Attendance nie kaj kore dite paro.
+
+tumi kindly amar Angular project er moto kore amar Flutter project er Attendance
+er jonno Attendance.dart, AttendanceService.dart, AttendanceProvider.dart
+r AttendancePage.dart file er puro code deo pls
+
+
+
+
